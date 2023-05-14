@@ -1,0 +1,148 @@
+.font-name-inter {
+  margin: 0;
+}
+.font-name-inter-container,
+.font-size- {
+  position: absolute;
+  top: 72px;
+  left: 504px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 1154px;
+  height: 118px;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.font-size- {
+  left: 280px;
+  width: 173px;
+  height: 37px;
+}
+.body-size-1214,
+.subtitle-20 {
+  top: 468px;
+  font-size: var(--font-size-xl);
+  width: 329px;
+  height: 37px;
+}
+.body-size-1214 {
+  position: absolute;
+  left: 232px;
+  display: inline-block;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.subtitle-20 {
+  left: 177px;
+}
+.dont-have-an,
+.subtitle-20,
+.title-32 {
+  position: absolute;
+  display: inline-block;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.title-32 {
+  top: 468px;
+  left: 126px;
+  font-size: var(--font-size-xl);
+  width: 329px;
+  height: 37px;
+}
+.dont-have-an {
+  top: -42px;
+  left: 428px;
+  font-weight: 300;
+  text-align: center;
+  width: 524px;
+  height: 35px;
+}
+.inter-light,
+.inter-medium {
+  top: 410px;
+  font-weight: 300;
+  width: 87px;
+  height: 21px;
+}
+.inter-light {
+  position: absolute;
+  left: 428px;
+  display: inline-block;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.inter-medium {
+  left: 400px;
+}
+.dont-have-an1,
+.dont-have-an2,
+.inter-medium,
+.inter-regular {
+  position: absolute;
+  display: inline-block;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.inter-regular {
+  top: 410px;
+  left: 374px;
+  font-weight: 300;
+  width: 87px;
+  height: 21px;
+}
+.dont-have-an1,
+.dont-have-an2 {
+  text-align: center;
+  width: 524px;
+  height: 35px;
+}
+.dont-have-an1 {
+  top: -39px;
+  left: 400px;
+  font-weight: 500;
+}
+.dont-have-an2 {
+  top: -41px;
+  left: 374px;
+}
+.home-shop-11 {
+  left: 221px;
+  font-size: var(--font-size-2xs);
+  width: 131px;
+  height: 14px;
+}
+.drop-us-a1,
+.for-wholesale-enquires1,
+.home-shop-11 {
+  position: absolute;
+  top: 72px;
+  display: inline-block;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.drop-us-a1 {
+  left: 195px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  width: 270px;
+  height: 35px;
+}
+.for-wholesale-enquires1 {
+  left: 160px;
+  width: 330px;
+  height: 52px;
+}
+.a4-1 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 842px;
+  overflow: hidden;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
